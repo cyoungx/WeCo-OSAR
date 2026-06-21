@@ -61,6 +61,7 @@ You can also run other experiments by modifying the configurations.
 
 Our code is based on the repository of [Navigating open set scenarios for skeleton-based action recognition](https://github.com/KPeng9510/OS-SAR). While citing our work, please also cite theirs.
 
+```bibtex
 @inproceedings{peng2024navigating,
   title={Navigating open set scenarios for skeleton-based action recognition},
   author={Peng, Kunyu and Yin, Cheng and Zheng, Junwei and Liu, Ruiping and Schneider, David and Zhang, Jiaming and Yang, Kailun and Sarfraz, M Saquib and Stiefelhagen, Rainer and Roitberg, Alina},
@@ -70,3 +71,4 @@ Our code is based on the repository of [Navigating open set scenarios for skelet
   pages={4487--4496},
   year={2024}
 }
+```
